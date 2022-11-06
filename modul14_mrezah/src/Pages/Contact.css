@@ -1,0 +1,29 @@
+.Contact{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.foto{
+    height: 300px;
+    width: 255px;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.whatsapp{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.instagram{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.sosmed h4{
+    padding-left: 8px;
+    padding-top: 3px;
+}
